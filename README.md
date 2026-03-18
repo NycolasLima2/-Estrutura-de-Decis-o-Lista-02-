@@ -1,4 +1,4 @@
-# -Estrutura-de-Decis-o-Lista-02-
+# -Estrutura-de-Decis-o-Lista-02- 
 
 #include <stdio.h>
 #include <stdlib.h>
